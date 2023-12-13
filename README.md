@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean Hoang!
 - 👀 I’m interested in gaining a more solid understanding of the interplay between react and flask as I build projects.
-- 🌱 I’m currently learning how to play Neon by John Mayer on guitar.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking forward to entering the tech world as a software engineer!
 - 📫 Feel free to connect with me at: hoangseanq@gmail.com
 
