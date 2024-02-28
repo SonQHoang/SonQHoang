@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean Hoang!
-- 👀 I’m interested in gaining a more solid understanding of the interplay between react and flask as I build projects.
-- 🌱 I’m currently digging deeper into React.
+- 👀 I’m interested in gaining a more solid understanding of the complexities of react as I level up my front-end skills.
+- 🌱 I’m currently digging deeper into React and the MERN stack.
 - 💞️ I’m looking forward to entering the tech world as a software engineer!
 - 📫 Feel free to connect with me at: hoangseanq@gmail.com
 
